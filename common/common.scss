@@ -1,0 +1,15 @@
+/* make the login button icon match the text */
+.d-header .login-button .fa {
+    color:#fff;
+}
+/* set the header colours */
+.d-header {
+    background-color: #75d0f1;
+    .d-icon {
+        color:#808080;
+    }
+}
+/* hide the edit username button from usr */
+.pref-username .btn {
+    display: none;
+}
